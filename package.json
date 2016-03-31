@@ -1,0 +1,26 @@
+{
+  "name": "hanging-server",
+  "version": "1.0.0",
+  "description": "Server that will not return responses to HTTP requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marin-liovic/hanging-server.git"
+  },
+  "keywords": [
+    "hanging",
+    "server"
+  ],
+  "author": "Marin Liović",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marin-liovic/hanging-server/issues"
+  },
+  "homepage": "https://github.com/marin-liovic/hanging-server#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
